@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/superhero.iml" filepath="$PROJECT_DIR$/.idea/superhero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superhero-api/superhero-api.iml" filepath="$PROJECT_DIR$/superhero-api/superhero-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superhero-common/superhero-common.iml" filepath="$PROJECT_DIR$/superhero-common/superhero-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superhero-mapper/superhero-mapper.iml" filepath="$PROJECT_DIR$/superhero-mapper/superhero-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superhero-pojo/superhero-pojo.iml" filepath="$PROJECT_DIR$/superhero-pojo/superhero-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superhero-service/superhero-service.iml" filepath="$PROJECT_DIR$/superhero-service/superhero-service.iml" />
+    </modules>
+  </component>
+</project>
