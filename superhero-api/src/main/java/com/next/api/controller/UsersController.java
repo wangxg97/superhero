@@ -201,5 +201,8 @@ public class UsersController extends BasicController {
 		return NEXTJSONResult.ok(conventUsersVO(user));
 	}
 	
-	
+	public void test(){
+		System.out.println("wwwwwww");
+	}
+
 }
